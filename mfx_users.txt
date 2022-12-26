@@ -1,0 +1,16 @@
+﻿[
+  {
+    "id": "ba514591-0f3c-4a5b-b590-a7f37649f372",
+    "email": "admin@example.com",
+    "metadata": {
+      "dashboardConf": {
+        "cards": [],
+        "mainfluxIntro": false
+      }
+    }
+  },
+  {
+    "id": "9482350c-88f4-4e9e-905c-96a4cc14f3a7",
+    "email": "mirko.teodorovic@mainflux.com"
+  }
+]
