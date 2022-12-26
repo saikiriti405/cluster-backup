@@ -1,0 +1,29 @@
+﻿[
+  {
+    "id": "26319a7a-79d7-448a-ad49-fd4d074a27a6",
+    "name": "LoRa-Application-4",
+    "metadata": {
+      "lora": {
+        "app_id": "4"
+      },
+      "type": "lora"
+    },
+    "type": "lora"
+  },
+  {
+    "id": "927ceb67-b8fa-42a8-8c07-c50e71a2729e",
+    "name": "testchannel",
+    "metadata": {
+      "type": "test"
+    },
+    "type": "test"
+  },
+  {
+    "id": "6c737bcc-afd2-4d42-9152-b8c7325c131f",
+    "name": "tester.1",
+    "metadata": {
+      "type": ""
+    },
+    "type": ""
+  }
+]

@@ -1,0 +1,123 @@
+﻿[
+  {
+    "id": "ec4a0c15-c83e-43c0-b5c2-1d4f3c00c788",
+    "name": "gpsTracker",
+    "key": "dedcb839-1f0b-45cd-8501-16b4e816edb0",
+    "metadata": {
+      "type": "test"
+    },
+    "type": "test"
+  },
+  {
+    "id": "c684fa75-f38f-48e2-b1c7-cda50fb835bf",
+    "name": "lsn50 - a840418231821892",
+    "key": "fb5dc8b1-c0d9-4ebe-91d4-3fb9e3aed3a5",
+    "metadata": {
+      "lora": {
+        "app_id": "4",
+        "dev_eui": "a840418231821892"
+      },
+      "type": "lora"
+    },
+    "type": "lora"
+  },
+  {
+    "id": "b91b9ff8-be70-4b30-af94-98011fe162a8",
+    "name": "mh1 - 8cf9572000002d9d",
+    "key": "ce8e536a-4fc6-4c72-8b44-92216a3083b4",
+    "metadata": {
+      "lora": {
+        "app_id": "4",
+        "dev_eui": "8cf9572000002d9d"
+      },
+      "type": "lora"
+    },
+    "type": "lora"
+  },
+  {
+    "id": "ad2dc7c5-a1cd-416a-931b-95a3e9e04f0c",
+    "name": "mh2 - 8cf957200001fce3",
+    "key": "885dd9aa-165b-4d59-8fc0-87aa73bf62e6",
+    "metadata": {
+      "lora": {
+        "app_id": "4",
+        "dev_eui": "8cf957200001fce3"
+      },
+      "type": "lora"
+    },
+    "type": "lora"
+  },
+  {
+    "id": "e3d5e15c-bbd8-47a7-9f67-71e89f965d54",
+    "name": "mh3-8cf957200001c8e7",
+    "key": "306471df-fcc0-4b44-a650-a554b3067c3b",
+    "metadata": {
+      "lora": {
+        "app_id": "4",
+        "dev_eui": "8cf957200001c8e7"
+      },
+      "type": "lora"
+    },
+    "type": "lora"
+  },
+  {
+    "id": "bade86de-a205-4d75-b8d3-bdd033ae5d22",
+    "name": "mh4 - 8cf957200001fcec",
+    "key": "2ae216d7-814d-4f59-9104-5fdf177d5306",
+    "metadata": {
+      "lora": {
+        "app_id": "4",
+        "dev_eui": "8cf957200001fcec"
+      },
+      "type": "lora"
+    },
+    "type": "lora"
+  },
+  {
+    "id": "fd0cebce-2df7-4dc5-919c-fee78f065f12",
+    "name": "mh5 - 8cf9572000002d64",
+    "key": "78ec55f7-a080-4128-a385-bf7dd3499a15",
+    "metadata": {
+      "lora": {
+        "app_id": "4",
+        "dev_eui": "8cf9572000002d64"
+      },
+      "type": "lora"
+    },
+    "type": "lora"
+  },
+  {
+    "id": "85d3cf5b-ce1c-49c8-8286-b97cbb5d37ab",
+    "name": "test",
+    "key": "8e8e0fd1-b433-4d62-b5ad-ff23c0570385",
+    "metadata": {
+      "test": {
+        "dev_eui": "a840418231821892"
+      },
+      "type": "testing"
+    },
+    "type": "testing"
+  },
+  {
+    "id": "29967cb0-c866-4d80-806d-7c40690b0fbb",
+    "name": "testDevice",
+    "key": "11d405b5-247f-4327-8ca7-6137d731946d",
+    "metadata": {
+      "type": "test"
+    },
+    "type": "test"
+  },
+  {
+    "id": "4b1ddab2-85d0-4ae6-8055-147b9c78cebf",
+    "name": "th1 - a84041a8c1822a34",
+    "key": "ed94632b-597f-4b8e-9fc4-08a2aa322055",
+    "metadata": {
+      "lora": {
+        "app_id": "4",
+        "dev_eui": "a84041a8c1822a34"
+      },
+      "type": "lora"
+    },
+    "type": "lora"
+  }
+]
